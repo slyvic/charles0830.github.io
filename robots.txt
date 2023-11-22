@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://charles0830.github.io/sitemap_index.xml
